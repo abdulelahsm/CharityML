@@ -4,10 +4,10 @@ In this project, we used sklearn's supervised learning techniques on data collec
 
 #### Things I've learned doing this project:
 
-How to identify when preprocessing is needed, and how to apply it.
+1. How to identify when preprocessing is needed, and how to apply it.
 
-How to establish a benchmark for a solution to the problem.
+2. How to establish a benchmark for a solution to the problem.
 
-What each of several supervised learning algorithms accomplishes given a specific dataset.
+3. What each of several supervised learning algorithms accomplishes given a specific dataset.
 
-How to investigate whether a candidate solution model is adequate for the problem.
+4. How to investigate whether a candidate solution model is adequate for the problem.
